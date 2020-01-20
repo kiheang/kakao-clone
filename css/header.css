@@ -17,6 +17,7 @@
 .header .header__header-column {
   display: flex;
   align-items: center;
+  padding: 0px 5px;
 }
 .header .header__back-btn {
   font-size: 22px;
