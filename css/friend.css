@@ -5,6 +5,7 @@
 }
 .friend .friend__avatar {
   width: 50px;
+  height: 60px;
   border-radius: 38%;
 }
 .friend__avatar.g-avatar {
@@ -19,6 +20,7 @@
 }
 .friend__column .friend__avatar {
   margin-right: 15px;
+  margin-bottom: 30px;
 }
 
 .friend__content .friend__name {
