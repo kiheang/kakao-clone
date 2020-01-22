@@ -18,6 +18,18 @@
   display: flex;
   align-items: center;
 }
+@keyframes incoming {
+  from {
+    transform: translateX(-320px);
+  }
+  to {
+    transform: none;
+  }
+}
+.chat:hover {
+  animation: incoming 0.5s linear alternate;
+}
+
 .friend__column .friend__avatar {
   margin-right: 15px;
   margin-bottom: 30px;
