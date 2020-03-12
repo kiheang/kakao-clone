@@ -1,3 +1,5 @@
-# kakao-clone
+나의 첫번째 프로젝트 카카오톡 프론트부분 따라하기 js (x)
 
-kakao desktop app clone
+기간은 2주 소요되었음
+
+CSS부분을 좀 더 화려하게 할려고 노력함,
